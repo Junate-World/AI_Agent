@@ -1,0 +1,42 @@
+# Flask Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Machine Learning and NLP
+sentence-transformers==5.2.2
+faiss-cpu==1.13.2
+numpy==1.24.3
+
+# Data Processing
+pandas==2.0.3
+
+# Logging and Configuration
+python-dotenv==1.0.0
+
+# JSON Handling (for better performance)
+orjson==3.11.7
+
+# Path and File Operations
+pathlib2==2.3.7.post1
+
+# Additional Utilities
+typing-extensions==4.7.1
+
+# Development and Testing (optional)
+pytest==7.4.2
+pytest-flask==1.3.0
+black==26.1.0
+flake8==7.3.0
+
+# Security
+cryptography==41.0.4
+
+# Date and Time
+python-dateutil==2.8.2
+
+# Machine Learning and NLP
+keras==3.13.2
+tf-keras==2.20.1
